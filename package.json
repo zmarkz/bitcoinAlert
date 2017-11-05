@@ -1,0 +1,30 @@
+{
+  "name": "zebpayapi",
+  "version": "1.0.0",
+  "description": "zebpay api alerts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manovagyanik1/zebpayApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manovagyanik1/zebpayApi/issues"
+  },
+  "homepage": "https://github.com/manovagyanik1/zebpayApi#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "cheerio": "^1.0.0-rc.2",
+    "date-and-time": "^0.5.0",
+    "node-cron": "^1.2.1",
+    "node-notifier": "^5.1.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "say": "^0.13.1"
+  }
+}
